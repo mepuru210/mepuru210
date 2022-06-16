@@ -3,7 +3,7 @@
 I'm mepuru209. I'm learning python.
 
 🌱 I’m currently learning...
-- python
+- Python
 - AWS
 - Server Management
 
