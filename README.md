@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm mepuru209. I'm learning python.
+I'm mepuru209.
 
 🌱 I’m currently learning...
 - Python
