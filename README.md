@@ -8,4 +8,4 @@ I'm mepuru209. I'm learning python.
 - Server Management
 
 📫 How to reach me...
-https://twitter.com/mepuru210
+- https://twitter.com/mepuru210
